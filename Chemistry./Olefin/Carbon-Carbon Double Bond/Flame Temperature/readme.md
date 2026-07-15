@@ -9,5 +9,4 @@ https://share.google/aimode/ya1c3YJW7EdKIq302
 # Discuss:
 https://chemistry.stackexchange.com/questions/155620/why-do-alkenes-olefins-burn-hotter-than-alkanes-paraffins-even-though-alkan
 
-# Wiki:
-https://en.wikipedia.org/wiki/Alkene
+
